@@ -26,7 +26,7 @@ Various forms of hacking are critical gestures towards pervasive, invasive netwo
 
 * networks in relation to communication protocols;
 
-* the power dynamics enabled by communicationp rotocols;
+* the power dynamics enabled by communication protocols;
 
 * peer-to-peer protocols: if everyone is a host, what does it mean to be hospitable to each other?
 
