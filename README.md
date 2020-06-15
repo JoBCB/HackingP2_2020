@@ -37,6 +37,6 @@ Various forms of hacking are critical gestures towards pervasive, invasive netwo
 
 - - - 
 
-Finde here course's [Resources and References]()
+Finde here course's [Resources and References](https://github.com/JoBCB/HackingP2_2020/wiki)
 
 For information on Theory and Practice Assignment, Assessment Criteria and Classes Planning please access the official [Willem de Kooning Academy online environments](https://www.wdka.nl/).
